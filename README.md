@@ -7,12 +7,11 @@ node.js中文资料导航
 + [HomePage](http://www.nodejs.org/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
 + [Node.js中文文档](http://docs.cnodejs.net/cman/)
-+ [Node.js 异步异常的处理与domain模块解析](http://deadhorse.me/nodejs/2013/04/13/exception_and_domain.html)
 + [Node.js C++ addon编写实战系列](http://deadhorse.me/nodejs/2012/10/08/c_addon_in_nodejs_node_gyp.html)
 + [热门node.js模块排行榜，方便找出你想要的模块](https://nodejsmodules.org/)
 + [nodejs多线程，真正的非阻塞](http://cnodejs.org/topic/518b679763e9f8a5424406e9)
 + [浅析nodejs的buffer类](http://cnodejs.org/topic/5189ff4f63e9f8a54207f60c)
-+ []
++ [利用libuv编写异步多线程的addon实例](http://cnodejs.org/topic/519ceb5263e9f8a542c19764)
 
 ##模块导航
 
@@ -21,11 +20,9 @@ node.js中文资料导航
 ####最流行的web框架Express
 + [HomePage](http://expressjs.com/)
 + [加装涡轮，提速expressjs](http://cnodejs.org/topic/51c3ef9f73c638f37058e6bc)
-+ [关于XSS（跨站脚本攻击）和CSRF（跨站请求伪造）](http://cnodejs.org/topic/50463565329c5139760c34a1)
 + [Javascript模板引擎性能对比及几点优化](http://cnodejs.org/topic/4f16442ccae1f4aa27001109)
 + [让 ejs 更加快 | Let ejs faster with options._with = false](http://cnodejs.org/topic/51c2c2e373c638f3703f4929)
 + [给 connect 的 static 模块加上url路径前缀](http://cnodejs.org/topic/4fce14e0e5e72c25180b51d1)
-+ [阿里云主机Nginx下配置NodeJS、Express和Forever](http://cnodejs.org/topic/5059ce39fd37ea6b2f07e1a3)
 
 ####国人开源web框架rrestjs
 + [HomePage](http://rrest.cnodejs.net/)
@@ -37,6 +34,7 @@ node.js中文资料导航
 
 + [HomePage](https://github.com/felixge/node-mysql)
 + [mysql处理BIGINT里面的一个坑](http://cnodejs.org/topic/51a8c64d555d34c67835037d)
++ [使用node-mysql中的连接池](http://cnodejs.org/topic/51676ac26d38277306fe7c85)
 
 ###Mongodb nosql新锐
 
@@ -54,12 +52,20 @@ node.js中文资料导航
 + [pomelo](https://github.com/NetEase/pomelo)
 + [Infoq深入浅出node.js游戏服务器开发](http://www.infoq.com/cn/articles/game-server-development-1)
 
+###字符格式
++ [開源的簡繁轉換庫OpenCC支持Node.js了](http://cnodejs.org/topic/516a96d16d38277306349507)
++ [iconv-lite扩展：增加big5/shift-jis支持](http://cnodejs.org/topic/51923a2f63e9f8a542c71123)
+
+###运维
++ [Node.js 异步异常的处理与domain模块解析](http://deadhorse.me/nodejs/2013/04/13/exception_and_domain.html)
++ [关于XSS（跨站脚本攻击）和CSRF（跨站请求伪造）](http://cnodejs.org/topic/50463565329c5139760c34a1)
+
 ##性能测试
 
 + [阿里出品的node.js调研与服务性能测试](http://www.tbdata.org/archives/1285)
 + [多核单服务器各种配置和业务压力下的node.js性能测试](http://snoopyxdy.blog.163.com/blog/static/6011744020117315192204/)
 + [巅峰对决：node.js和php性能测试](http://snoopyxdy.blog.163.com/blog/static/60117440201183101319257/)
-
++ [阿里云主机Nginx下配置NodeJS、Express和Forever](http://cnodejs.org/topic/5059ce39fd37ea6b2f07e1a3)
 
 ##经验分享
 
