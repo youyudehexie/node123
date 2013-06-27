@@ -1,7 +1,4 @@
-Date: 2013-06-27 22:56:08
-Title: node123导航页
-
-node.js中文资料导航
+#node.js中文资料导航
 
 ##Node.js 
 + [HomePage](http://www.nodejs.org/)
