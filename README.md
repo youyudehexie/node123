@@ -32,6 +32,7 @@
 + [HomePage](https://github.com/felixge/node-mysql)
 + [mysql处理BIGINT里面的一个坑](http://cnodejs.org/topic/51a8c64d555d34c67835037d)
 + [使用node-mysql中的连接池](http://cnodejs.org/topic/51676ac26d38277306fe7c85)
++ [mysql自动断开解决办法](http://cnodejs.org/topic/516b77e86d382773064266df)
 
 ###Mongodb 
 
@@ -62,6 +63,7 @@
 + [关于XSS（跨站脚本攻击）和CSRF（跨站请求伪造）](http://cnodejs.org/topic/50463565329c5139760c34a1)
 + [forever 替代工具 pm2 的介绍](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 + [upstart封装mongodb应用为系统服务](http://cnodejs.org/topic/51c562d673c638f3707bb8cc)
++ [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 
 ##性能测试
 
@@ -95,6 +97,7 @@
 + [晓知 个人博客](http://cnodejs.org/topic/50f8bbfedf9e9fcc58a015ab)
 + [使用Nodejs编写多人订餐系统](https://github.com/willerce/canku)
 + [NodeJS写的WebQQ](http://cnodejs.org/topic/517b4be16d38277306984a81)
++ [Yblog](http://cnodejs.org/topic/51be6c2960af11cd33604776)
 
 
 ###工具类
