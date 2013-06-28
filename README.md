@@ -104,5 +104,6 @@
 
 + [深度遍历目录/列出目录下所有文件](http://cnodejs.org/topic/51cb771973c638f3701acecd)
 + [lincell发布0.1.1版本，一行命令创建IDE](https://github.com/sumory/lincell)
++ [HTML标签XSS过滤模块](http://cnodejs.org/topic/5058962f8ea56b5e7806b2a3)
 
 欢迎各位node.js爱好者，提交分享手上的资源。
