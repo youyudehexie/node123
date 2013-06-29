@@ -41,6 +41,15 @@
 + [如何使用mongoose对一个100万+的mongodb的表进行遍历操作](http://cnodejs.org/topic/51508570604b3d512113f1b3)
 + [[技术讨论]mongodb驱动的正确使用方法](http://cnodejs.org/topic/5190d61263e9f8a542acd83b)
 
+###异步流程处理
+
+####async
++ [HomePage](https://github.com/caolan/async)
++ [Async中文详解](http://freewind.me/blog/20120518/932.html)
+
+####eventproxy
++ [HomePage](https://github.com/JacksonTian/eventproxy)
+
 ###Redis 内存键值数据库
 
 + [node_redis](https://github.com/mranney/node_redis)
@@ -112,13 +121,17 @@
 
 ###工具类
 
++ [wechat微信中间件](https://github.com/node-webot/wechat)
 + [深度遍历目录/列出目录下所有文件](http://cnodejs.org/topic/51cb771973c638f3701acecd)
 + [lincell发布0.1.1版本，一行命令创建IDE](https://github.com/sumory/lincell)
++ [纯真IP库lib-qqwry](http://cnodejs.org/topic/51c044ee57628b975f088c7a)
 
 ###商业应用
 
++ [淘宝数据魔方](http://mofang.taobao.com/)
 + [花瓣网](http://huaban.com/)
 + [雪球网](http://xueqiu.com/)
++ 网易pomelo消息推送系统
 
 
 欢迎各位node.js爱好者，提交分享手上的资源。
