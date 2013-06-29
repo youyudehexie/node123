@@ -17,9 +17,9 @@
 ####最流行的web框架Express
 + [HomePage](http://expressjs.com/)
 + [加装涡轮，提速expressjs](http://cnodejs.org/topic/51c3ef9f73c638f37058e6bc)
-+ [Javascript模板引擎性能对比及几点优化](http://cnodejs.org/topic/4f16442ccae1f4aa27001109)
-+ [让 ejs 更加快 | Let ejs faster with options._with = false](http://cnodejs.org/topic/51c2c2e373c638f3703f4929)
 + [给 connect 的 static 模块加上url路径前缀](http://cnodejs.org/topic/4fce14e0e5e72c25180b51d1)
++ [研究nodeclub 登陆验证逻辑的一些心得](http://cnodejs.org/topic/515535485dff253b374288da)
++ [Express.js 中文入门指引手册](http://www.csser.com/board/4f77e6f996ca600f78000936)
 
 ####国人开源web框架rrestjs
 + [HomePage](http://rrest.cnodejs.net/)
@@ -54,6 +54,13 @@
 + [開源的簡繁轉換庫OpenCC支持Node.js了](http://cnodejs.org/topic/516a96d16d38277306349507)
 + [iconv-lite扩展：增加big5/shift-jis支持](http://cnodejs.org/topic/51923a2f63e9f8a542c71123)
 
+###网页模板引擎
++ [WEB模板jade、ejs、handlebars 万行代码解释效率比较，jade完败](http://cnodejs.org/topic/50e70edfa7e6c6171a1d70fa)
++ [Javascript模板引擎性能对比及几点优化](http://cnodejs.org/topic/4f16442ccae1f4aa27001109)
++ [让 ejs 更加快 | Let ejs faster with options._with = false](http://cnodejs.org/topic/51c2c2e373c638f3703f4929)
++ [EJS快速入门教程](http://www.csser.com/board/4fddc4f0b28ed7d857001674)
+
+
 ###图片处理
 + [Nodejs跨平台轻量级图片编解码库【增加Jpeg质量调整】](http://cnodejs.org/topic/512b9fecdf9e9fcc580eb248)
 + [node-ccap模块生成captcha验证码](http://cnodejs.org/topic/50f90d8edf9e9fcc58a5ee0b)
@@ -64,19 +71,21 @@
 + [forever 替代工具 pm2 的介绍](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 + [upstart封装mongodb应用为系统服务](http://cnodejs.org/topic/51c562d673c638f3707bb8cc)
 + [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
++ [阿里云主机Nginx下配置NodeJS、Express和Forever](http://cnodejs.org/topic/5059ce39fd37ea6b2f07e1a3)
 
 ##性能测试
 
 + [阿里出品的node.js调研与服务性能测试](http://www.tbdata.org/archives/1285)
 + [多核单服务器各种配置和业务压力下的node.js性能测试](http://snoopyxdy.blog.163.com/blog/static/6011744020117315192204/)
 + [巅峰对决：node.js和php性能测试](http://snoopyxdy.blog.163.com/blog/static/60117440201183101319257/)
-+ [阿里云主机Nginx下配置NodeJS、Express和Forever](http://cnodejs.org/topic/5059ce39fd37ea6b2f07e1a3)
 
 ##经验分享
 
 + [程序员如何说服老板采用Node.js？](http://www.csdn.net/article/2012-05-03/2805296)
 + [百万级并发 Node.js也能行](http://www.csdn.net/article/2012-08-21/2808861)
 + [用node+express搭建多人博客教程系列](http://cnodejs.org/topic/515b009a6d38277306192e4e)
++ [Node.js静态文件服务器实战](http://www.infoq.com/cn/news/2011/11/tyq-nodejs-static-file-server)
++ [人人和微博登录模块的实现](http://cnodejs.org/topic/51ce18bb73c638f3706ca7bb#51ce818c73c638f3707422e6)
 
 
 ##活跃开发者（排名不分先后）
@@ -97,12 +106,19 @@
 + [晓知 个人博客](http://cnodejs.org/topic/50f8bbfedf9e9fcc58a015ab)
 + [使用Nodejs编写多人订餐系统](https://github.com/willerce/canku)
 + [NodeJS写的WebQQ](http://cnodejs.org/topic/517b4be16d38277306984a81)
-+ [Yblog](http://cnodejs.org/topic/51be6c2960af11cd33604776)
++ [Yblog 博客程序](http://cnodejs.org/topic/51be6c2960af11cd33604776)
++ [noderce博客程序](http://cnodejs.org/topic/5023eeb9f767cc9a51032f68)
 
 
 ###工具类
 
 + [深度遍历目录/列出目录下所有文件](http://cnodejs.org/topic/51cb771973c638f3701acecd)
 + [lincell发布0.1.1版本，一行命令创建IDE](https://github.com/sumory/lincell)
+
+###商业应用
+
++ [花瓣网](http://huaban.com/)
++ [雪球网](http://xueqiu.com/)
+
 
 欢迎各位node.js爱好者，提交分享手上的资源。
