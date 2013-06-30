@@ -131,6 +131,7 @@
 + [深度遍历目录/列出目录下所有文件](http://cnodejs.org/topic/51cb771973c638f3701acecd)
 + [lincell发布0.1.1版本，一行命令创建IDE](https://github.com/sumory/lincell)
 + [HTML标签XSS过滤模块](http://cnodejs.org/topic/5058962f8ea56b5e7806b2a3)
++ [基于Node.js的中文分词模块](https://github.com/leizongmin/node-segment)
 + [纯真IP库lib-qqwry](http://cnodejs.org/topic/51c044ee57628b975f088c7a)
 + [豆瓣SDK](http://cnodejs.org/topic/51ae41d7555d34c678ab4cce)
 
