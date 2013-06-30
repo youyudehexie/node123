@@ -20,6 +20,7 @@
 + [给 connect 的 static 模块加上url路径前缀](http://cnodejs.org/topic/4fce14e0e5e72c25180b51d1)
 + [研究nodeclub 登陆验证逻辑的一些心得](http://cnodejs.org/topic/515535485dff253b374288da)
 + [Express.js 中文入门指引手册](http://www.csser.com/board/4f77e6f996ca600f78000936)
++ [Connect架构初探 for 新手](http://cnodejs.org/topic/51a2f562776b2e7f035f2850)
 
 ####国人开源web框架rrestjs
 + [HomePage](http://rrest.cnodejs.net/)
@@ -92,6 +93,11 @@
 
 + [程序员如何说服老板采用Node.js？](http://www.csdn.net/article/2012-05-03/2805296)
 + [百万级并发 Node.js也能行](http://www.csdn.net/article/2012-08-21/2808861)
++ [高性能Node.js：来自LinkedIn Mobile的10条优化建议](http://www.rockdai.com/?p=596)
++ [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
++ [SDCC讲师专访：淘宝朴灵谈Node.js](http://www.csdn.net/article/2012-07-30/2807863)
++ [QCon北京2013 Node.js专题出品人朴灵专访](http://www.linuxeden.com/html/news/20130109/134241.html)
++ [一个周末掌握IT前沿技术之node.js篇](http://ittechnical.sinaapp.com/category/node-js/)
 + [用node+express搭建多人博客教程系列](http://cnodejs.org/topic/515b009a6d38277306192e4e)
 + [Node.js静态文件服务器实战](http://www.infoq.com/cn/news/2011/11/tyq-nodejs-static-file-server)
 + [人人和微博登录模块的实现](http://cnodejs.org/topic/51ce18bb73c638f3706ca7bb#51ce818c73c638f3707422e6)
@@ -125,12 +131,17 @@
 + [深度遍历目录/列出目录下所有文件](http://cnodejs.org/topic/51cb771973c638f3701acecd)
 + [lincell发布0.1.1版本，一行命令创建IDE](https://github.com/sumory/lincell)
 + [纯真IP库lib-qqwry](http://cnodejs.org/topic/51c044ee57628b975f088c7a)
++ [豆瓣SDK](http://cnodejs.org/topic/51ae41d7555d34c678ab4cce)
 
 ###商业应用
 
 + [淘宝数据魔方](http://mofang.taobao.com/)
++ [淘宝指数](http://shu.taobao.com/)
++ 淘宝时光机
++ [点点网](http://www.diandian.com/)
 + [花瓣网](http://huaban.com/)
 + [雪球网](http://xueqiu.com/)
++ 小米手机抢购
 + 网易pomelo消息推送系统
 
 
