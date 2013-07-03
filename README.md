@@ -74,6 +74,7 @@
 ###图片处理
 + [Nodejs跨平台轻量级图片编解码库【增加Jpeg质量调整】](http://cnodejs.org/topic/512b9fecdf9e9fcc580eb248)
 + [node-ccap模块生成captcha验证码](http://cnodejs.org/topic/50f90d8edf9e9fcc58a5ee0b)
++ [使用nodejs将html5 canvas base64编码图片保存为文件](http://cnodejs.org/topic/4f939c84407edba2143c12f7)
 
 ###运维
 + [Node.js 异步异常的处理与domain模块解析](http://deadhorse.me/nodejs/2013/04/13/exception_and_domain.html)
@@ -110,6 +111,7 @@
 + [snoopyxdy](http://snoopyxdy.blog.163.com/)
 + [Python发烧友](http://fengmk2.github.io/)
 + [老雷](http://ucdok.com/)
++ [shiedman](http://cnodejs.org/user/shiedman)
 + [jiyinyiyong](http://jiyinyiyong.github.io/blog/)
 
 
