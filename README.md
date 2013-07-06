@@ -4,6 +4,7 @@
 + [HomePage](http://www.nodejs.org/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
 + [Node.js中文文档](http://docs.cnodejs.net/cman/)
++ [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
 + [Node.js C++ addon编写实战系列](http://deadhorse.me/nodejs/2012/10/08/c_addon_in_nodejs_node_gyp.html)
 + [热门node.js模块排行榜，方便找出你想要的模块](https://nodejsmodules.org/)
 + [nodejs多线程，真正的非阻塞](http://cnodejs.org/topic/518b679763e9f8a5424406e9)
@@ -21,12 +22,16 @@
 + [研究nodeclub 登陆验证逻辑的一些心得](http://cnodejs.org/topic/515535485dff253b374288da)
 + [Express.js 中文入门指引手册](http://www.csser.com/board/4f77e6f996ca600f78000936)
 + [Connect架构初探 for 新手](http://cnodejs.org/topic/51a2f562776b2e7f035f2850)
++ [使用 Express + Socket.IO 搭建多人聊天室](http://cnodejs.org/topic/51d51cd8d44cbfa3047926ba)
 
 ####国人开源web框架rrestjs
 + [HomePage](http://rrest.cnodejs.net/)
 
 ####实时应用web框架meteor
 + [HomePage](http://meteor.com/)
++ [Meteor-DDP翻译](http://cnodejs.org/topic/51b030d9555d34c678e5fb2e)
++ [Meteor 非官方中文文档（不包含API部分）](http://cnodejs.org/topic/519b655a63e9f8a5429cb70e)
++ [基于meteor开发的开源项目列表](http://cnodejs.org/topic/50d0466b637ffa4155aed34f)
 
 ###Mysql 老牌关系型数据库
 
@@ -104,6 +109,7 @@
 + [人人和微博登录模块的实现](http://cnodejs.org/topic/51ce18bb73c638f3706ca7bb#51ce818c73c638f3707422e6)
 
 
+
 ##活跃开发者（排名不分先后）
 
 + [朴灵](https://github.com/JacksonTian)
@@ -149,4 +155,4 @@
 + 网易pomelo消息推送系统
 
 
-欢迎各位node.js爱好者，提交分享手上的资源。
+欢迎各位node.js爱好者，提交分享手上的资源
