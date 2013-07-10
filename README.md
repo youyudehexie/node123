@@ -10,6 +10,7 @@
 + [nodejs多线程，真正的非阻塞](http://cnodejs.org/topic/518b679763e9f8a5424406e9)
 + [浅析nodejs的buffer类](http://cnodejs.org/topic/5189ff4f63e9f8a54207f60c)
 + [利用libuv编写异步多线程的addon实例](http://cnodejs.org/topic/519ceb5263e9f8a542c19764)
++ [Node.js中exports与module.exports的区别](http://weizhifeng.net/node-js-exports-vs-module-exports.html)
 
 ##模块导航
 
@@ -155,4 +156,4 @@
 + 网易pomelo消息推送系统
 
 
-欢迎各位node.js爱好者，提交分享手上的资源
+欢迎各位node.js爱好者，提交分享手上的资源。
