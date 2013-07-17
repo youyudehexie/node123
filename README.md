@@ -103,6 +103,7 @@
 + [高性能Node.js：来自LinkedIn Mobile的10条优化建议](http://www.rockdai.com/?p=596)
 + [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
 + [SDCC讲师专访：淘宝朴灵谈Node.js](http://www.csdn.net/article/2012-07-30/2807863)
++ [Node.js的核心与红利](http://www.programmer.com.cn/13844/)
 + [QCon北京2013 Node.js专题出品人朴灵专访](http://www.linuxeden.com/html/news/20130109/134241.html)
 + [一个周末掌握IT前沿技术之node.js篇](http://ittechnical.sinaapp.com/category/node-js/)
 + [用node+express搭建多人博客教程系列](http://cnodejs.org/topic/515b009a6d38277306192e4e)
