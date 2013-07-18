@@ -144,6 +144,7 @@
 + [基于Node.js的中文分词模块](https://github.com/leizongmin/node-segment)
 + [纯真IP库lib-qqwry](http://cnodejs.org/topic/51c044ee57628b975f088c7a)
 + [豆瓣SDK](http://cnodejs.org/topic/51ae41d7555d34c678ab4cce)
++ [数字与字符串转换模块baseN，支持2~62间任意进制转换](http://cnodejs.org/topic/51e7b69af4963ade0e2332a5)
 
 ##商业应用
 
