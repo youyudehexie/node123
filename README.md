@@ -111,6 +111,7 @@
 + [Node.js静态文件服务器实战](http://www.infoq.com/cn/news/2011/11/tyq-nodejs-static-file-server)
 + [人人和微博登录模块的实现](http://cnodejs.org/topic/51ce18bb73c638f3706ca7bb#51ce818c73c638f3707422e6)
 + [《京JS》会议 & V8上的JS优化](http://blog.sina.com.cn/s/blog_6801fe420101qaz2.html)
++ [沪 JS 国内讲师的 PPT 收集](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 
 
 
