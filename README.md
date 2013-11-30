@@ -11,6 +11,7 @@
 + [浅析nodejs的buffer类](http://cnodejs.org/topic/5189ff4f63e9f8a54207f60c)
 + [利用libuv编写异步多线程的addon实例](http://cnodejs.org/topic/519ceb5263e9f8a542c19764)
 + [Node.js中exports与module.exports的区别](http://weizhifeng.net/node-js-exports-vs-module-exports.html)
++ [Node.js http 管道拒绝服务漏洞](http://cnodejs.org/topic/5293550ca6957a08096508fb)
 
 ##模块导航
 
