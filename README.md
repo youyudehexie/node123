@@ -2,6 +2,7 @@
 
 ##Node.js 
 + [HomePage](http://www.nodejs.org/)
++ [Node官网七牛镜像](http://nodejs-org.qiniudn.com/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
 + [Node.js中文文档](http://docs.cnodejs.net/cman/)
 + [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
