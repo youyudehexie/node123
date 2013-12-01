@@ -15,19 +15,6 @@
 + [Node.js http 管道拒绝服务漏洞](http://cnodejs.org/topic/5293550ca6957a08096508fb)
 + [Node.js高级编程](http://yaohuiji.com/2013/01/08/pro-node-article-list/)
 
-##node.js中文书
-
-###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
-![](http://img3.douban.com/mpic/s27132823.jpg)
-
-###[九浅一深Node.js](http://book.douban.com/subject/25768396/) piao大作品
-![](http://img5.douban.com/mpic/s27134708.jpg)
-
-###[node.js入门经典](http://book.douban.com/subject/23780706/)
-![](http://img5.douban.com/mpic/s26588828.jpg)
-
-###[node.js开发指南](http://book.douban.com/subject/10789820/)
-![](http://img5.douban.com/mpic/s10307479.jpg)
 
 ##业界新闻
 + [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
@@ -197,5 +184,19 @@
 + 新浪微博DB proxy
 + 腾讯朋友网推送
 
+
+##node.js中文书
+
+###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
+![](http://img3.douban.com/mpic/s27132823.jpg)
+
+###[九浅一深Node.js](http://book.douban.com/subject/25768396/) piao大作品
+![](http://img5.douban.com/mpic/s27134708.jpg)
+
+###[node.js入门经典](http://book.douban.com/subject/23780706/)
+![](http://img5.douban.com/mpic/s26588828.jpg)
+
+###[node.js开发指南](http://book.douban.com/subject/10789820/)
+![](http://img5.douban.com/mpic/s10307479.jpg)
 
 欢迎各位node.js爱好者，提交分享手上的资源。
