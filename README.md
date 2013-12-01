@@ -4,7 +4,7 @@
 + [HomePage](http://www.nodejs.org/)
 + [Node官网七牛镜像](http://nodejs-org.qiniudn.com/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
-+ [Node.js中文文档](http://docs.cnodejs.net/cman/)
++ [Node.js中文文档](http://nodeapi.ucdok.com/#/api/)
 + [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
 + [Node.js C++ addon编写实战系列](http://deadhorse.me/nodejs/2012/10/08/c_addon_in_nodejs_node_gyp.html)
 + [热门node.js模块排行榜，方便找出你想要的模块](https://nodejsmodules.org/)
@@ -13,6 +13,43 @@
 + [利用libuv编写异步多线程的addon实例](http://cnodejs.org/topic/519ceb5263e9f8a542c19764)
 + [Node.js中exports与module.exports的区别](http://weizhifeng.net/node-js-exports-vs-module-exports.html)
 + [Node.js http 管道拒绝服务漏洞](http://cnodejs.org/topic/5293550ca6957a08096508fb)
++ [Node.js高级编程](http://yaohuiji.com/2013/01/08/pro-node-article-list/)
+
+##node.js中文书
+
+###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
+![](http://img3.douban.com/lpic/s27132823.jpg)
+
+###[九浅一深Node.js](http://book.douban.com/subject/25768396/) piao大作品
+![](http://img5.douban.com/lpic/s27134708.jpg)
+
+###[node.js入门经典](http://book.douban.com/subject/23780706/)
+![](http://img5.douban.com/lpic/s26588828.jpg)
+
+###[node.js开发指南](http://book.douban.com/subject/10789820/)
+![http://img5.douban.com/lpic/s10307479.jpg]
+
+##业界新闻
++ [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
++ [程序员如何说服老板采用Node.js？](http://www.csdn.net/article/2012-05-03/2805296)
++ [百万级并发 Node.js也能行](http://www.csdn.net/article/2012-08-21/2808861)
++ [高性能Node.js：来自LinkedIn Mobile的10条优化建议](http://www.rockdai.com/?p=596)
++ [Kraken：改变PayPal开发文化的Node.js框架](http://www.csdn.net/article/2013-11-25/2817617-PayPal-Kraken-Nodejs-Framework)
++ [Groupon抛弃Rails，转向Node.js](http://www.iteye.com/news/28358) 
+
+
+##经验分享
+
++ [SDCC讲师专访：淘宝朴灵谈Node.js](http://www.csdn.net/article/2012-07-30/2807863)
++ [Node.js的核心与红利](http://www.programmer.com.cn/13844/)
++ [QCon北京2013 Node.js专题出品人朴灵专访](http://www.linuxeden.com/html/news/20130109/134241.html)
++ [一个周末掌握IT前沿技术之node.js篇](http://ittechnical.sinaapp.com/category/node-js/)
++ [用node+express搭建多人博客教程系列](http://cnodejs.org/topic/515b009a6d38277306192e4e)
++ [Node.js静态文件服务器实战](http://www.infoq.com/cn/news/2011/11/tyq-nodejs-static-file-server)
++ [人人和微博登录模块的实现](http://cnodejs.org/topic/51ce18bb73c638f3706ca7bb#51ce818c73c638f3707422e6)
++ [《京JS》会议 & V8上的JS优化](http://blog.sina.com.cn/s/blog_6801fe420101qaz2.html)
++ [沪 JS 国内讲师的 PPT 收集](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
++ [给Node.js新手的7条小建议](http://cnodejs.org/topic/525216a3f29c7bbd3c877cbf)
 
 ##模块导航
 
@@ -35,6 +72,9 @@
 + [Meteor-DDP翻译](http://cnodejs.org/topic/51b030d9555d34c678e5fb2e)
 + [Meteor 非官方中文文档（不包含API部分）](http://cnodejs.org/topic/519b655a63e9f8a5429cb70e)
 + [基于meteor开发的开源项目列表](http://cnodejs.org/topic/50d0466b637ffa4155aed34f)
+
+####基于Express的实时MVC框架Sails
++ [HomePage](https://github.com/balderdashy/sails)
 
 ###Mysql 老牌关系型数据库
 
@@ -59,6 +99,10 @@
 ####eventproxy
 + [HomePage](https://github.com/JacksonTian/eventproxy)
 
+####Q Promise 异步模式 
++ [HomePage](https://github.com/kriskowal/q)
++ [在Node.js 中用 Q 实现Promise – Callbacks之外的另一种选择](http://www.ituring.com.cn/article/54547)
+
 ###Redis 内存键值数据库
 
 + [node_redis](https://github.com/mranney/node_redis)
@@ -67,6 +111,8 @@
 
 + [pomelo](https://github.com/NetEase/pomelo)
 + [Infoq深入浅出node.js游戏服务器开发](http://www.infoq.com/cn/articles/game-server-development-1)
++ [官网wiki](https://github.com/NetEase/pomelo/wiki/Home-in-Chinese)
++ [响应非常迅速的官方论坛](http://nodejs.netease.com/)
 
 ###字符格式
 + [開源的簡繁轉換庫OpenCC支持Node.js了](http://cnodejs.org/topic/516a96d16d38277306349507)
@@ -98,21 +144,6 @@
 + [多核单服务器各种配置和业务压力下的node.js性能测试](http://snoopyxdy.blog.163.com/blog/static/6011744020117315192204/)
 + [巅峰对决：node.js和php性能测试](http://snoopyxdy.blog.163.com/blog/static/60117440201183101319257/)
 
-##经验分享
-
-+ [程序员如何说服老板采用Node.js？](http://www.csdn.net/article/2012-05-03/2805296)
-+ [百万级并发 Node.js也能行](http://www.csdn.net/article/2012-08-21/2808861)
-+ [高性能Node.js：来自LinkedIn Mobile的10条优化建议](http://www.rockdai.com/?p=596)
-+ [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
-+ [SDCC讲师专访：淘宝朴灵谈Node.js](http://www.csdn.net/article/2012-07-30/2807863)
-+ [Node.js的核心与红利](http://www.programmer.com.cn/13844/)
-+ [QCon北京2013 Node.js专题出品人朴灵专访](http://www.linuxeden.com/html/news/20130109/134241.html)
-+ [一个周末掌握IT前沿技术之node.js篇](http://ittechnical.sinaapp.com/category/node-js/)
-+ [用node+express搭建多人博客教程系列](http://cnodejs.org/topic/515b009a6d38277306192e4e)
-+ [Node.js静态文件服务器实战](http://www.infoq.com/cn/news/2011/11/tyq-nodejs-static-file-server)
-+ [人人和微博登录模块的实现](http://cnodejs.org/topic/51ce18bb73c638f3706ca7bb#51ce818c73c638f3707422e6)
-+ [《京JS》会议 & V8上的JS优化](http://blog.sina.com.cn/s/blog_6801fe420101qaz2.html)
-+ [沪 JS 国内讲师的 PPT 收集](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 
 
 
@@ -160,6 +191,11 @@
 + [雪球网](http://xueqiu.com/)
 + 小米手机抢购
 + 网易pomelo消息推送系统
++ PayPal
++ Groupon
++ 百度推送平台
++ 新浪微博DB proxy
++ 腾讯朋友网推送
 
 
 欢迎各位node.js爱好者，提交分享手上的资源。
