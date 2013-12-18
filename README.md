@@ -2,7 +2,6 @@
 
 ##Node.js 
 + [HomePage](http://www.nodejs.org/)
-+ [Node官网七牛镜像](http://nodejs-org.qiniudn.com/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
 + [Node.js中文文档](http://nodeapi.ucdok.com/#/api/)
 + [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
@@ -17,6 +16,7 @@
 
 
 ##业界新闻
++ [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 + [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
 + [程序员如何说服老板采用Node.js？](http://www.csdn.net/article/2012-05-03/2805296)
 + [百万级并发 Node.js也能行](http://www.csdn.net/article/2012-08-21/2808861)
@@ -130,8 +130,6 @@
 + [阿里出品的node.js调研与服务性能测试](http://www.tbdata.org/archives/1285)
 + [多核单服务器各种配置和业务压力下的node.js性能测试](http://snoopyxdy.blog.163.com/blog/static/6011744020117315192204/)
 + [巅峰对决：node.js和php性能测试](http://snoopyxdy.blog.163.com/blog/static/60117440201183101319257/)
-
-
 
 
 ##活跃开发者（排名不分先后）
