@@ -13,7 +13,7 @@
 + [Node.js中exports与module.exports的区别](http://weizhifeng.net/node-js-exports-vs-module-exports.html)
 + [Node.js http 管道拒绝服务漏洞](http://cnodejs.org/topic/5293550ca6957a08096508fb)
 + [Node.js高级编程](http://yaohuiji.com/2013/01/08/pro-node-article-list/)
-
++ [Node.js代码风格指南](https://github.com/dead-horse/node-style-guide)
 
 ##业界新闻
 + [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
