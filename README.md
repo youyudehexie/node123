@@ -63,6 +63,10 @@
 ####基于Express的实时MVC框架Sails
 + [HomePage](https://github.com/balderdashy/sails)
 
+####Koa，下一代 Node.js web 框架
++ [HomePage](http://koajs.com)
++ [koa-guide](https://github.com/turingou/koa-guide)
+
 ###Mysql 老牌关系型数据库
 
 + [HomePage](https://github.com/felixge/node-mysql)
@@ -89,6 +93,11 @@
 ####Q Promise 异步模式 
 + [HomePage](https://github.com/kriskowal/q)
 + [在Node.js 中用 Q 实现Promise – Callbacks之外的另一种选择](http://www.ituring.com.cn/article/54547)
+
+####co
++ [HomePage](https://github.com/visionmedia/co)
++ [深入理解 Yield](http://www.html-js.com/article/column/77)
++ [co wiki](https://github.com/visionmedia/co/wiki)
 
 ###Redis 内存键值数据库
 
