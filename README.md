@@ -66,6 +66,7 @@
 ####Koa，下一代 Node.js web 框架
 + [HomePage](http://koajs.com)
 + [koa-guide](https://github.com/turingou/koa-guide)
++ [koa-middlewares](https://github.com/dead-horse/koa-middlewares) koa常用中间件集合
 
 ###Mysql 老牌关系型数据库
 
@@ -99,6 +100,8 @@
 + [深入理解 Yield](http://www.html-js.com/article/column/77)
 + [co wiki](https://github.com/visionmedia/co/wiki)
 
+####[异步解决方案示例](https://github.com/dead-horse/callback_hell)
+
 ###Redis 内存键值数据库
 
 + [node_redis](https://github.com/mranney/node_redis)
@@ -125,6 +128,7 @@
 + [Nodejs跨平台轻量级图片编解码库【增加Jpeg质量调整】](http://cnodejs.org/topic/512b9fecdf9e9fcc580eb248)
 + [node-ccap模块生成captcha验证码](http://cnodejs.org/topic/50f90d8edf9e9fcc58a5ee0b)
 + [使用nodejs将html5 canvas base64编码图片保存为文件](http://cnodejs.org/topic/4f939c84407edba2143c12f7)
++ [web-camera，node + phantomjs 网页截图](https://github.com/dead-horse/web-camera)
 
 ###运维
 + [Node.js 异步异常的处理与domain模块解析](http://deadhorse.me/nodejs/2013/04/13/exception_and_domain.html)
@@ -166,6 +170,7 @@
 
 ###工具类
 
++ [cnpmjs.org 企业级 npm 解决方案](https://github.com/cnpm/cnpmjs.org)
 + [wechat微信中间件](https://github.com/node-webot/wechat)
 + [深度遍历目录/列出目录下所有文件](http://cnodejs.org/topic/51cb771973c638f3701acecd)
 + [lincell发布0.1.1版本，一行命令创建IDE](https://github.com/sumory/lincell)
@@ -179,7 +184,7 @@
 
 + [淘宝数据魔方](http://mofang.taobao.com/)
 + [淘宝指数](http://shu.taobao.com/)
-+ 淘宝时光机
++ [淘宝时光机](http://me.taobao.com)
 + [点点网](http://www.diandian.com/)
 + [花瓣网](http://huaban.com/)
 + [雪球网](http://xueqiu.com/)
