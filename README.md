@@ -153,7 +153,7 @@
 + [Python发烧友](http://fengmk2.github.io/)
 + [老雷](http://ucdok.com/)
 + [shiedman](http://cnodejs.org/user/shiedman)
-+ [jiyinyiyong](http://jiyinyiyong.github.io/blog/)
++ [jiyinyiyong](http://tiye.me)
 
 
 ##开源案例 收集Cnode的开源项目
