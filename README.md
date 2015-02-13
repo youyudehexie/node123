@@ -212,4 +212,7 @@
 ###[node.js开发指南](http://book.douban.com/subject/10789820/)
 ![](http://img5.douban.com/mpic/s10307479.jpg)
 
+###[深入浅出Node.js](http://baike.baidu.com/link?url=7WKH4ruR_YpKxi-iZyOa3SRs9U-gAszgvbfNvLIk0XOr8PbFBRx59Hj6vpXRBwVy5Ku55roi3TO8wFv3ul0oAK)
+![](http://baike.baidu.com/picture/11656058/12012167/0/730e0cf3d7ca7bcb377df123bc096b63f624a8b3.html?fr=lemma&ct=single#aid=0&pic=730e0cf3d7ca7bcb377df123bc096b63f624a8b3)
+
 欢迎各位node.js爱好者，提交分享手上的资源。
