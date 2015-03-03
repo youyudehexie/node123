@@ -15,7 +15,7 @@
 + [Node.js高级编程](http://yaohuiji.com/2013/01/08/pro-node-article-list/)
 + [Node.js代码风格指南](https://github.com/dead-horse/node-style-guide)
 + [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
-
++ [前端快速掌握 nodejs+mongodb+express+jade](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 ##业界新闻
 + [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 + [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
