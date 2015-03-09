@@ -26,7 +26,7 @@
 + [高性能Node.js：来自LinkedIn Mobile的10条优化建议](http://www.rockdai.com/?p=596)
 + [Kraken：改变PayPal开发文化的Node.js框架](http://www.csdn.net/article/2013-11-25/2817617-PayPal-Kraken-Nodejs-Framework)
 + [Groupon抛弃Rails，转向Node.js](http://www.iteye.com/news/28358) 
-
++ [PayPal为什么从Java迁移到Node.js，性能提高一倍，文件代码减少44%](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 
 ##经验分享
 
@@ -146,7 +146,7 @@
 + [阿里出品的node.js调研与服务性能测试](http://www.tbdata.org/archives/1285)
 + [多核单服务器各种配置和业务压力下的node.js性能测试](http://snoopyxdy.blog.163.com/blog/static/6011744020117315192204/)
 + [巅峰对决：node.js和php性能测试](http://snoopyxdy.blog.163.com/blog/static/60117440201183101319257/)
-
++ [性能测评：Node.JS比Java EE快20%](http://ourjs.com/detail/52726d92031db63703000001)
 
 ##活跃开发者（排名不分先后）
 
