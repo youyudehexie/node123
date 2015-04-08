@@ -4,6 +4,7 @@
 + [HomePage](http://www.nodejs.org/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
 + [Node.js中文文档](http://nodeapi.ucdok.com/#/api/)
++ [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 + [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
 + [Node.js C++ addon编写实战系列](http://deadhorse.me/nodejs/2012/10/08/c_addon_in_nodejs_node_gyp.html)
 + [热门node.js模块排行榜，方便找出你想要的模块](https://nodejsmodules.org/)
