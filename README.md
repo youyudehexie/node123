@@ -206,7 +206,7 @@
 ###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
 ![](http://img3.douban.com/mpic/s27132823.jpg)
 
-###[九浅一深Node.js](http://book.douban.com/subject/25768396/) piao大作品
+###[九浅一深Node.js](http://book.douban.com/subject/25768396/) pu大作品
 ![](http://img5.douban.com/mpic/s27134708.jpg)
 
 ###[node.js入门经典](http://book.douban.com/subject/23780706/)
