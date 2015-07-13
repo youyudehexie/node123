@@ -118,6 +118,9 @@
 + [官网wiki](https://github.com/NetEase/pomelo/wiki/Home-in-Chinese)
 + [响应非常迅速的官方论坛](http://nodejs.netease.com/)
 
+###node-webkit 用写网页的方式写客户端UI程序
++ [HomePage](https://github.com/rogerwang/node-webkit)
+
 ###字符格式
 + [開源的簡繁轉換庫OpenCC支持Node.js了](http://cnodejs.org/topic/516a96d16d38277306349507)
 + [iconv-lite扩展：增加big5/shift-jis支持](http://cnodejs.org/topic/51923a2f63e9f8a542c71123)
