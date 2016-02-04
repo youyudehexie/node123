@@ -105,6 +105,10 @@
 + [深入理解 Yield](http://www.html-js.com/article/column/77)
 + [co wiki](https://github.com/visionmedia/co/wiki)
 
+#### bluebird
+ Promise/A+规范实现，详细的API文档，推荐 
++ [bluebird](https://github.com/petkaantonov/bluebird) Bluebird is a full featured promise library with unmatched performance. http://bluebirdjs.com
+
 ####[异步解决方案示例](https://github.com/dead-horse/callback_hell)
 
 ###Redis 内存键值数据库
