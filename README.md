@@ -171,6 +171,7 @@
 + [NodeJS写的WebQQ](http://cnodejs.org/topic/517b4be16d38277306984a81)
 + [Yblog 博客程序](http://cnodejs.org/topic/51be6c2960af11cd33604776)
 + [noderce博客程序](http://cnodejs.org/topic/5023eeb9f767cc9a51032f68)
++ [NodeSchool](http://nodeschool.io/zh-cn/)
 
 
 ###工具类
