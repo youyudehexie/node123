@@ -1,6 +1,6 @@
-#node.js中文资料导航
+# node.js中文资料导航
 
-##Node.js 
+## Node.js 
 + [HomePage](http://www.nodejs.org/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
 + [Io.js中文文档](http://davidcai1993.gitbooks.io/iojs-api-doc-in-chinese/content/)
@@ -19,7 +19,7 @@
 + [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 + [前端快速掌握 nodejs+mongodb+express+jade](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 
-##业界新闻
+## 业界新闻
 
 + [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 + [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
@@ -30,7 +30,7 @@
 + [Groupon抛弃Rails，转向Node.js](http://www.iteye.com/news/28358) 
 + [PayPal为什么从Java迁移到Node.js，性能提高一倍，文件代码减少44%](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 
-##经验分享
+## 经验分享
 
 + [SDCC讲师专访：淘宝朴灵谈Node.js](http://www.csdn.net/article/2012-07-30/2807863)
 + [Node.js的核心与红利](http://www.programmer.com.cn/13844/)
@@ -43,11 +43,11 @@
 + [沪 JS 国内讲师的 PPT 收集](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 + [给Node.js新手的7条小建议](http://cnodejs.org/topic/525216a3f29c7bbd3c877cbf)
 
-##模块导航
+## 模块导航
 
-###web服务器框架
+### web服务器框架
 
-####最流行的web框架Express
+#### 最流行的web框架Express
 + [HomePage](http://expressjs.com/)
 + [加装涡轮，提速expressjs](http://cnodejs.org/topic/51c3ef9f73c638f37058e6bc)
 + [给 connect 的 static 模块加上url路径前缀](http://cnodejs.org/topic/4fce14e0e5e72c25180b51d1)
@@ -56,10 +56,10 @@
 + [Connect架构初探 for 新手](http://cnodejs.org/topic/51a2f562776b2e7f035f2850)
 + [使用 Express + Socket.IO 搭建多人聊天室](http://cnodejs.org/topic/51d51cd8d44cbfa3047926ba)
 
-####国人开源web框架rrestjs
+#### 国人开源web框架rrestjs
 + [HomePage](http://rrest.cnodejs.net/)
 
-####实时应用web框架meteor
+#### 实时应用web框架meteor
 + [HomePage](http://meteor.com/)
 + [Meteor-DDP翻译](http://cnodejs.org/topic/51b030d9555d34c678e5fb2e)
 + [Meteor 非官方中文文档（不包含API部分）](http://cnodejs.org/topic/519b655a63e9f8a5429cb70e)
@@ -68,74 +68,74 @@
 ####基于Express的实时MVC框架Sails
 + [HomePage](https://github.com/balderdashy/sails)
 
-####Koa，下一代 Node.js web 框架
+#### Koa，下一代 Node.js web 框架
 + [HomePage](http://koajs.com)
 + [koa-guide](https://github.com/turingou/koa-guide)
 + [koa-middlewares](https://github.com/dead-horse/koa-middlewares) koa常用中间件集合
 
-###Mysql 老牌关系型数据库
+### Mysql 老牌关系型数据库
 
 + [HomePage](https://github.com/felixge/node-mysql)
 + [mysql处理BIGINT里面的一个坑](http://cnodejs.org/topic/51a8c64d555d34c67835037d)
 + [使用node-mysql中的连接池](http://cnodejs.org/topic/51676ac26d38277306fe7c85)
 + [mysql自动断开解决办法](http://cnodejs.org/topic/516b77e86d382773064266df)
 
-###Mongodb 
+### Mongodb 
 
 + [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)
 + [mongoose](https://github.com/LearnBoost/mongoose)
 + [如何使用mongoose对一个100万+的mongodb的表进行遍历操作](http://cnodejs.org/topic/51508570604b3d512113f1b3)
 + [[技术讨论]mongodb驱动的正确使用方法](http://cnodejs.org/topic/5190d61263e9f8a542acd83b)
 
-###异步流程处理
+### 异步流程处理
 
-####async
+#### async
 + [HomePage](https://github.com/caolan/async)
 + [Async中文详解](http://freewind.me/blog/20120518/932.html)
 
-####eventproxy
+#### eventproxy
 + [HomePage](https://github.com/JacksonTian/eventproxy)
 
-####Q Promise 异步模式 
+#### Q Promise 异步模式 
 + [HomePage](https://github.com/kriskowal/q)
 + [在Node.js 中用 Q 实现Promise – Callbacks之外的另一种选择](http://www.ituring.com.cn/article/54547)
 
-####co
+#### co
 + [HomePage](https://github.com/visionmedia/co)
 + [深入理解 Yield](http://www.html-js.com/article/column/77)
 + [co wiki](https://github.com/visionmedia/co/wiki)
 
-####[异步解决方案示例](https://github.com/dead-horse/callback_hell)
+#### [异步解决方案示例](https://github.com/dead-horse/callback_hell)
 
-###Redis 内存键值数据库
+### Redis 内存键值数据库
 
 + [node_redis](https://github.com/mranney/node_redis)
 
-###Pomelo 网易出品的网页游戏框架
+### Pomelo 网易出品的网页游戏框架
 
 + [pomelo](https://github.com/NetEase/pomelo)
 + [Infoq深入浅出node.js游戏服务器开发](http://www.infoq.com/cn/articles/game-server-development-1)
 + [官网wiki](https://github.com/NetEase/pomelo/wiki/Home-in-Chinese)
 + [响应非常迅速的官方论坛](http://nodejs.netease.com/)
 
-###字符格式
+### 字符格式
 + [開源的簡繁轉換庫OpenCC支持Node.js了](http://cnodejs.org/topic/516a96d16d38277306349507)
 + [iconv-lite扩展：增加big5/shift-jis支持](http://cnodejs.org/topic/51923a2f63e9f8a542c71123)
 
-###网页模板引擎
+### 网页模板引擎
 + [WEB模板jade、ejs、handlebars 万行代码解释效率比较，jade完败](http://cnodejs.org/topic/50e70edfa7e6c6171a1d70fa)
 + [Javascript模板引擎性能对比及几点优化](http://cnodejs.org/topic/4f16442ccae1f4aa27001109)
 + [让 ejs 更加快 | Let ejs faster with options._with = false](http://cnodejs.org/topic/51c2c2e373c638f3703f4929)
 + [EJS快速入门教程](http://www.csser.com/board/4fddc4f0b28ed7d857001674)
 
 
-###图片处理
+### 图片处理
 + [Nodejs跨平台轻量级图片编解码库【增加Jpeg质量调整】](http://cnodejs.org/topic/512b9fecdf9e9fcc580eb248)
 + [node-ccap模块生成captcha验证码](http://cnodejs.org/topic/50f90d8edf9e9fcc58a5ee0b)
 + [使用nodejs将html5 canvas base64编码图片保存为文件](http://cnodejs.org/topic/4f939c84407edba2143c12f7)
 + [web-camera，node + phantomjs 网页截图](https://github.com/dead-horse/web-camera)
 
-###运维
+### 运维
 + [Node.js 异步异常的处理与domain模块解析](http://deadhorse.me/nodejs/2013/04/13/exception_and_domain.html)
 + [关于XSS（跨站脚本攻击）和CSRF（跨站请求伪造）](http://cnodejs.org/topic/50463565329c5139760c34a1)
 + [forever 替代工具 pm2 的介绍](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
@@ -143,14 +143,14 @@
 + [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 + [阿里云主机Nginx下配置NodeJS、Express和Forever](http://cnodejs.org/topic/5059ce39fd37ea6b2f07e1a3)
 
-##性能测试
+## 性能测试
 
 + [阿里出品的node.js调研与服务性能测试](http://www.tbdata.org/archives/1285)
 + [多核单服务器各种配置和业务压力下的node.js性能测试](http://snoopyxdy.blog.163.com/blog/static/6011744020117315192204/)
 + [巅峰对决：node.js和php性能测试](http://snoopyxdy.blog.163.com/blog/static/60117440201183101319257/)
 + [性能测评：Node.JS比Java EE快20%](http://ourjs.com/detail/52726d92031db63703000001)
 
-##活跃开发者（排名不分先后）
+## 活跃开发者（排名不分先后）
 
 + [朴灵](https://github.com/JacksonTian)
 + [dead_horse/死马](http://deadhorse.me/)
@@ -161,9 +161,9 @@
 + [jiyinyiyong](http://tiye.me)
 
 
-##开源案例 收集Cnode的开源项目
+## 开源案例 收集Cnode的开源项目
 
-###社交类
+### 社交类
 
 + [Cnodejs 最活跃的Node.js社区](https://github.com/cnodejs/nodeclub/)
 + [晓知 个人博客](http://cnodejs.org/topic/50f8bbfedf9e9fcc58a015ab)
@@ -173,7 +173,7 @@
 + [noderce博客程序](http://cnodejs.org/topic/5023eeb9f767cc9a51032f68)
 
 
-###工具类
+### 工具类
 
 + [cnpmjs.org 企业级 npm 解决方案](https://github.com/cnpm/cnpmjs.org)
 + [wechat微信中间件](https://github.com/node-webot/wechat)
@@ -185,7 +185,7 @@
 + [豆瓣SDK](http://cnodejs.org/topic/51ae41d7555d34c678ab4cce)
 + [数字与字符串转换模块baseN，支持2~62间任意进制转换](http://cnodejs.org/topic/51e7b69af4963ade0e2332a5)
 
-##商业应用
+## 商业应用
 
 + [淘宝数据魔方](http://mofang.taobao.com/)
 + [淘宝指数](http://shu.taobao.com/)
@@ -202,18 +202,14 @@
 + 腾讯朋友网推送
 
 
-##node.js中文书
+## node.js中文书
 
-###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
-![](http://img3.douban.com/mpic/s27132823.jpg)
++ [了不起的Node.js](http://book.douban.com/subject/25767596/)
 
-###[九浅一深Node.js](http://book.douban.com/subject/25768396/) pu大作品
-![](http://img5.douban.com/mpic/s27134708.jpg)
++ [九浅一深Node.js](http://book.douban.com/subject/25768396/) pu大作品
 
-###[node.js入门经典](http://book.douban.com/subject/23780706/)
-![](http://img5.douban.com/mpic/s26588828.jpg)
++ [node.js入门经典](http://book.douban.com/subject/23780706/)
 
-###[node.js开发指南](http://book.douban.com/subject/10789820/)
-![](http://img5.douban.com/mpic/s10307479.jpg)
++ [node.js开发指南](http://book.douban.com/subject/10789820/)
 
 欢迎各位node.js爱好者，提交分享手上的资源。
